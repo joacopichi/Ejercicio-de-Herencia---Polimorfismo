@@ -1,4 +1,4 @@
-from service.empleados import *
+from service.empleados import Empleado
 
 class EmpleadoController:
     def __init__(self, empleado):

@@ -1,4 +1,4 @@
-from service.departamentos import *
+from service.departamentos import Departamento
 
 class DepartamentoController:
     def __init__(self, departamento):
